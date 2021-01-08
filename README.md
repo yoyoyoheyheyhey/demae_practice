@@ -17,7 +17,7 @@ app/controllers/exercises_controller.rbに、exercise1~12のアクションを�
 - 適切なメソッドが使われているかどうかをテストしているため、必ず※1に記述すること
 - いずれの要件もワンライナー(1行)で解答できるため、※１内では改行を使わないこと
 
-### 参考
+### ヒント
 - [Active Record クエリインターフェイス](https://railsguides.jp/active_record_querying.html)
 
 ## 始め方
